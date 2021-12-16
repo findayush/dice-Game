@@ -9,6 +9,6 @@ Game Rules
 - A player looses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's turn
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 100 points on GLOBAL score wins the game
-- Aninput field to the HTML is added where players can set the winning score, so that they can change the predefined score of 100. 
+- An input field is added where players can set the winning score, so that they can change the predefined score of 100. 
 
-Play Here: https://ayush-dice-game.netlify.app/
+## Play Here: https://ayush-dice-game.netlify.app/
